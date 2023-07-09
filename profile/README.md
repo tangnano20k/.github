@@ -4,7 +4,11 @@ Be aware of some caveats when using GPIO pins. See [pinout](tang_nano_20k_pinlab
 
 Discussion group on [Telegram](https://t.me/tangnano20k)
 
-TEAM members, feel free to fork or create any repository that has a working core or is related to Tang nano 20k
+TEAM members, feel free to fork or create any repository that has a working core or is related to Tang nano 20k.
+
+Forked repositories with no local commits that are behind upstream repository need to be synced (Sync fork button). 
+No team members should visit the upstream repository page for latest commits.
+
 <!--
 
 **Here are some ideas to get you started:**
