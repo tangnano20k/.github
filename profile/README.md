@@ -4,6 +4,7 @@ Be aware of some caveats when using GPIO pins. See [pinout](tang_nano_20k_pinlab
 
 Discussion group on [Telegram](https://t.me/tangnano20k)
 
+TEAM members, feel free to fork or create any repository that has a working core or is related to Tang nano 20k
 <!--
 
 **Here are some ideas to get you started:**
