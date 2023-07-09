@@ -1,3 +1,5 @@
+Information and documentation for Tang Nano 20K on [Sipeed WIKI](https://wiki.sipeed.com/hardware/en/tang/tang-nano-20k/nano-20k.html)
+
 Discussion group on [Telegram](https://t.me/tangnano20k)
 
 <!--
