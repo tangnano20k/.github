@@ -1,6 +1,6 @@
 Information and documentation for Tang Nano 20K on [Sipeed WIKI](https://wiki.sipeed.com/hardware/en/tang/tang-nano-20k/nano-20k.html)
 
-Be aware of some caveats when using GPIO pins. See [pinout](profile/tang_nano_20k_pinlabel_v3.png).
+Be aware of some caveats when using GPIO pins. See [pinout](profile/tang_nano_20k_pinlabel_v2.png).
 
 Discussion group on [Telegram](https://t.me/tangnano20k)
 
